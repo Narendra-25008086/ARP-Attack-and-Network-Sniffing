@@ -160,11 +160,11 @@ sudo ettercap -G
 
 Explore the following menus:
 
-*Sniff
-*Hosts
-*Targets
-*View
-*Plugins 
+* Sniff
+* Hosts
+* Targets
+* View
+* Plugins 
 
 
 Examine the graphical interface and network analysis features.
